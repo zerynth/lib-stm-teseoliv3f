@@ -1,0 +1,14 @@
+---
+description: Driver for STM Teseo Liv3F GPS modules
+fullname: lib.stm.teseoliv3f
+info:
+    chip_manufacturer: stm
+    chip_name: Teseo Liv3F
+    name: GPS Driver
+    type: Connectivity
+keywords:
+- wireless
+- stm
+- gps
+title: Teseo Liv3F GPS modules
+...
